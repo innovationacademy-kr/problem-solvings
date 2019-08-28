@@ -12,6 +12,17 @@
 문서를 수정하거나 변형하여 공유해도 됩니다만, 반드시 같은 CC-BY-NC-SA
 저작권을 적용하시는 조건입니다.
 
+| 이름 | 가격 |
+| :- | :-: |
+| [오일러프로젝트](http://euler.synap.co.kr/) | 무료 |
+| [알고스팟](https://algospot.com/) | 무료 |
+| [더블릿](59.23.113.171/index.php) | 부분무료 |
+| [코딜리티](https://codility.com/) | 부분무료 |
+| [코딩도장](http://codingdojang.com/) | 무료 |
+| [해커랭크](https://www.hackerrank.com/) | 부분무료 |
+| [Baekjoon Online Judge](https://www.acmicpc.net/) | 무료 |
+| [코드포스](https://codeforces.com) | 무료 |
+
 ### 이 사이트 내용 수정
 
 찾는 사이트가 이 목록에 없어 추가하시길 원하신다면,
