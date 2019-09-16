@@ -39,8 +39,7 @@
 | [uva online judge](https://uva.onlinejudge.org/) | 무료 |
 | [Coding is fun](http://codingfun.net/onlinejudge/) | 무료 |
 | [atcoder](https://atcoder.jp/) | 무료 |
-| [PKU Online Judge](http://poj.org/) | 무료 |
-| [UVa Online Judge](https://uva.onlinejudge.org/) | 무료 |
+| [Peking University Online Judge](http://poj.org/) | 무료 |
 | [Sphere Online Judge](https://www.spoj.com/) | 무료 |
 
 ### 이 사이트 내용 수정
